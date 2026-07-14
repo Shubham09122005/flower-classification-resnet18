@@ -87,6 +87,8 @@ The Oxford Flowers 102 dataset downloads automatically on first run via `torchvi
 - Why learning rate matters when fine-tuning pretrained weights
 - How to evaluate a model beyond a single accuracy number — using confusion matrices, per-class analysis, and explainability tools like Grad-CAM
 
+
+
 ## Author
 
-<Your Name> — [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/shubham-makkar-460577332)) · [GitHub](your-github-url)
+   Shubham Makkar — [LinkedIn](https://www.linkedin.com/in/shubham-makkar-460577332) · [GitHub](https://github.com/Shubham09122005)
