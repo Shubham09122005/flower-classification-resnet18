@@ -89,4 +89,4 @@ The Oxford Flowers 102 dataset downloads automatically on first run via `torchvi
 
 ## Author
 
-<Your Name> — [LinkedIn](your-linkedin-url) · [GitHub](your-github-url)
+<Your Name> — [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/shubham-makkar-460577332)) · [GitHub](your-github-url)
